@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732040763225",
+    "project_id": "smart-diapo",
+    "storage_bucket": "smart-diapo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732040763225:android:57a40a3a3b9b67a5275e48",
+        "android_client_info": {
+          "package_name": "com.example.diapo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoMGZFPW6ROHLZ4xqwWcctyHLUhgIqEis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
